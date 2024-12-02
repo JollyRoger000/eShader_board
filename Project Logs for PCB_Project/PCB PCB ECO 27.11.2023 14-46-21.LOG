@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=AOUT1 Pin=XP1-1
+Removed Pin From Net: NetName=AOUT2 Pin=XP1-2
+Removed Pin From Net: NetName=BOUT2 Pin=XP1-3
+Removed Pin From Net: NetName=BOUT1 Pin=XP1-4
+Removed Member From Class: ClassName=Схема Member=XP1
+Added Component: Designator=XP?(WF-4)
+Add component (AddParameter): Name = "Group"; Value = "Соединители"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Manufacture"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Вилка WF-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "WF-4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AOUT1 Pin=XP?-1
+Added Pin To Net: NetName=AOUT2 Pin=XP?-2
+Added Pin To Net: NetName=BOUT2 Pin=XP?-3
+Added Pin To Net: NetName=BOUT1 Pin=XP?-4
+Added Member To Class: ClassName=Схема Member=Component XP? WF4

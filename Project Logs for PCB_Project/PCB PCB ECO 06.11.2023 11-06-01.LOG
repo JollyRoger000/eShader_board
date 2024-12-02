@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Added Component: Designator=R13(RESC1608X06N)
+Add component (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "–езисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "–езистор 0.1¬т 0603 10 кќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC1608X06N)
+Add component (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "–езисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "–езистор 0.1¬т 0603 10 кќм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT95P245X110-3N)
+Add component (AddParameter): Name = "FullName"; Value = "MMBT3904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "“ранзисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "“ранзистор MMBT3904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MMBT3904"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT95P245X110-3N)
+Add component (AddParameter): Name = "FullName"; Value = "MMBT3904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "“ранзисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "“ранзистор MMBT3904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MMBT3904"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_2 Pin=VT1-3
+Added Pin To Net: NetName=NetC12_1 Pin=VT2-3
+Added Pin To Net: NetName=DTR Pin=R13-2
+Added Pin To Net: NetName=DTR Pin=VT2-2
+Added Pin To Net: NetName=DTR Pin=XS1-6
+Added Net: Name=DTR
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=VT1-1
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=VT2-1
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=RTS Pin=R14-1
+Added Pin To Net: NetName=RTS Pin=VT1-2
+Added Pin To Net: NetName=RTS Pin=XS1-5
+Added Net: Name=RTS
+Added Member To Class: ClassName=—хема Member=Component R14 R0603
+Added Member To Class: ClassName=—хема Member=Component R15 R0603
+Added Member To Class: ClassName=—хема Member=Component VT1 MMBT3904
+Added Member To Class: ClassName=—хема Member=Component VT2 MMBT3904

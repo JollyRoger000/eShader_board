@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=STEP Pin=DD3-30
+Removed Pin From Net: NetName=nENBL Pin=DD3-31
+Removed Pin From Net: NetName=DIR Pin=DD3-32
+Added Pin To Net: NetName=STEP Pin=DD3-29
+Added Pin To Net: NetName=nENBL Pin=DD3-30
+Added Pin To Net: NetName=DIR Pin=DD3-31
+Added Member To Class: ClassName=Ñץולא Member=Component R13 R0603

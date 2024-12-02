@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=SA2 Old Footprint=Геркон 20 мм New Footprint=Геркон 12 мм
+Change Component Comment : Designator=SA2 Old Comment=геркон 20мм New Comment=геркон 12мм
+Change component parameters: Designator = "SA2" ("SA2"); Footprint = "Геркон 20 мм"; UniqueID = "\OJGUARCT" ("\OJGUARCT")
+Change component parameters (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group"; Value = "Изделия коммутационные"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Геркон 12 мм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Схема Member=Component C10 C0603
+Added Member To Class: ClassName=Схема Member=Component C11 C0603
+Added Member To Class: ClassName=Схема Member=Component DD3 Твердотельное реле 90В, 10А
+Added Member To Class: ClassName=Схема Member=Component SA1 Кнопка

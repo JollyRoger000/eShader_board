@@ -1,0 +1,11 @@
+Added Component: Designator=VD1(SODFL370X125-2N)
+Add component (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "Диоды"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MBR0540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=NetC6_2 Pin=VD1-2
+Added Pin To Net: NetName=NetC1_2 Pin=XP2-1
+Added Member To Class: ClassName=Схема Member=Component VD1 Диод Шоттки 40V, 500mA SOD123

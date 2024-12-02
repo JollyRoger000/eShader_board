@@ -1,0 +1,14 @@
+Change component parameters: Designator = "HL1" ("HL1"); Footprint = "LED 0805"; UniqueID = "\JLKCIKYQ" ("\JLKCIKYQ")
+Change component parameters (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group"; Value = "Индикаторы единичные"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HL2" ("HL2"); Footprint = "LED 0805"; UniqueID = "\NCSWCQHA" ("\NCSWCQHA")
+Change component parameters (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group"; Value = "Индикаторы единичные"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"

@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=XS1 Old Footprint=PBS-6R New Footprint=PBS-6
+Change component parameters: Designator = "XS1" ("XS1"); Footprint = "PBS-6R"; UniqueID = "\CXEEJKLH" ("\CXEEJKLH")
+Change component parameters (AddParameter): Name = "Group"; Value = "Соединители"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture"; Value = "Manufacture"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Розетка PBS-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PBS-6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=XP2-1

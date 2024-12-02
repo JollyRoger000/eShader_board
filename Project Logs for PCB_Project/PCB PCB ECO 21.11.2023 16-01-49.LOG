@@ -1,0 +1,10 @@
+Added Component: Designator=SA2(Геркон 12 мм)
+Add component (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "Изделия коммутационные"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Геркон 12 мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD3_36 Pin=SA2-1
+Added Pin To Net: NetName=GND Pin=SA2-2
+Added Member To Class: ClassName=Схема Member=Component SA2 геркон 12мм

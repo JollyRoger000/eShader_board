@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=MODE2 Pin=DD3-7
+Removed Pin From Net: NetName=MODE1 Pin=DD3-8
+Removed Pin From Net: NetName=MODE0 Pin=DD3-9
+Removed Pin From Net: NetName=STEP Pin=DD3-10
+Removed Pin From Net: NetName=nENBL Pin=DD3-11
+Removed Pin From Net: NetName=DIR Pin=DD3-12
+Removed Pin From Net: NetName=nFAULT Pin=DD3-13
+Added Pin To Net: NetName=MODE2 Pin=DD3-27
+Added Pin To Net: NetName=MODE1 Pin=DD3-28
+Added Pin To Net: NetName=MODE0 Pin=DD3-29
+Added Pin To Net: NetName=STEP Pin=DD3-30
+Added Pin To Net: NetName=nENBL Pin=DD3-31
+Added Pin To Net: NetName=DIR Pin=DD3-32
+Added Pin To Net: NetName=nFAULT Pin=DD3-33
+Added Pin To Net: NetName=GND Pin=XP2-1

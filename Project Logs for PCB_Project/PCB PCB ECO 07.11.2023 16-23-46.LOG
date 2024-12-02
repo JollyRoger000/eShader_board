@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=nFAULT Pin=DD2-18
+Removed Pin From Net: NetName=3V3 Pin=R8-1
+Removed Pin From Net: NetName=nFAULT Pin=R8-2
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR13_2
+Added Member To Class: ClassName=Ñץולא Member=Component DD3 Òגונהמעוכüםמו נוכו 90Â, 10À

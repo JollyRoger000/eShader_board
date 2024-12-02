@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetDD3_16 Pin=SA1-1
+Removed Pin From Net: NetName=GND Pin=SA1-2
+Added Pin To Net: NetName=GND Pin=SA1-1
+Added Pin To Net: NetName=NetDD3_16 Pin=SA1-2
+Added Member To Class: ClassName=Ñץולא Member=Component R10 R0603

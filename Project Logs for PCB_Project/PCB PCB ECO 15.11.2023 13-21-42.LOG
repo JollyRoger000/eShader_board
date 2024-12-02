@@ -1,0 +1,20 @@
+Added Component: Designator=HL1(LED3mm_V_GREEN)
+Add component (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "Индикаторы единичные"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Светодиод 3мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(LED3mm_V_GREEN)
+Add component (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "Индикаторы единичные"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Светодиод 3мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=GND Pin=HL1-2
+Added Pin To Net: NetName=NetHL2_1 Pin=HL2-1
+Added Pin To Net: NetName=GND Pin=HL2-2
+Added Member To Class: ClassName=Схема Member=Component HL1 LED3mm_V
+Added Member To Class: ClassName=Схема Member=Component HL2 LED3mm_V

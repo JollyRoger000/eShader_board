@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetDD3_16 Pin=SA1-2
+Removed Pin From Net: NetName=GND Pin=SA1-4
+Change Component Footprint: Designator=SA1 Old Footprint=IT-1102S New Footprint=Кнопка 4,3х4,3 боковая
+Change Component Designator: OldDesignator=SA2 NewDesignator=SA3
+Change component parameters: Designator = "SA1" ("SA1"); Footprint = "IT-1102S"; UniqueID = "\ZKZACHLP" ("\ZKZACHLP")
+Change component parameters (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group"; Value = "Кнопки"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "tact switch 4.5x4.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SA1-2
+Added Member To Class: ClassName=Схема Member=Component SA3 геркон 12мм

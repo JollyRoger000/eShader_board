@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C2 Old Footprint=Ê50-35 D5MM New Footprint=K53-68-E
+Change Component Comment : Designator=C2 Old Comment=Ê50-35 100ìêÔ, 16Â New Comment=Ê53-68-E
+Change component parameters: Designator = "C2" ("C2"); Footprint = "Ê50-35 D5MM"; UniqueID = "\TKEJBFTG" ("\TKEJBFTG")
+Change component parameters (AddParameter): Name = "FullName"; Value = "Ê53-68 "E"-16Â-100ìêÔ±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group"; Value = "Êîíäåíñàòîğû"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TKE"; Value = "TKE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TU"; Value = "ÀÆßĞ.673546.007 ÒÓ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Ê53-68"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 ìêÔ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Volt"; Value = "16Â"; VariantName = "[No Variations]"

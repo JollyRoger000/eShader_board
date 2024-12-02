@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=STEP Pin=DD3-29
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC1608X09N"; UniqueID = "\CRGZGYBM" ("\CRGZGYBM")
+Change component parameters (AddParameter): Name = "FullName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group"; Value = "Конденсаторы"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Конденсатор 1мкФ X7R 10В 10% 0603, GRM188R61A105K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "Precision"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TKE"; Value = "TKE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TU"; Value = "TU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Volt"; Value = "Volt"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=STEP Pin=DD3-28
